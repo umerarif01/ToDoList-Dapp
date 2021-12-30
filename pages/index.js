@@ -24,7 +24,7 @@ export default function Home() {
       </Head>
    
     <h1 className='text-5xl font-bold'>ToDoList DAPP</h1>
-    <h2 className='text-3xl font-bold'>Deployed on Rinkeby Ethereum Testnet</h2>
+    <h2 className='text-xl font-bold'>Deployed on Rinkeby Ethereum Testnet</h2>
    <Signer />
    <Main />
     </div>
