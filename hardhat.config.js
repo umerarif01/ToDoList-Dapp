@@ -8,7 +8,7 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
   }
 });
 
-let key = "25aaee7da74ec17ae7aa45f74d3656d9b6df75238ccac04effd73c93c21e81e2";
+let key = "";
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
